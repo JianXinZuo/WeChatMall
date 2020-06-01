@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/home/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "黑马优品",
+    "navigationBarTextStyle":"white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
